@@ -30,8 +30,10 @@ npm install
 This project is configured with Tailwind CSS. If you're starting fresh, follow the steps below:
 
 Install tailwindcss:
+```
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init
+```
 
 Configure tailwind.config.js by adding the following paths to the content array:
 
