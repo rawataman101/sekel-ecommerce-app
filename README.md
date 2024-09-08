@@ -14,40 +14,6 @@ Make sure you have the following installed on your local machine:
 ### 1. Clone the Repository
 
 Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
-
-### 2. Install Dependencies
-Install all the required dependencies by running:
-
-```
-npm install
-```
-
-
-Here's a step-by-step instruction in GitHub markdown format for setting up a React project with Vite, Tailwind CSS, and shadecn. You can copy this and add it to your GitHub repository's README file.
-
-markdown
-Copy code
-# E-Commerce Application Setup Guide
-
-This project is built using **React** with **Vite**, **Tailwind CSS**, and **shadecn**. Follow the instructions below to set up the project.
-
-## Prerequisites
-
-Make sure you have the following installed on your local machine:
-
-- [Node.js](https://nodejs.org/) (v14 or higher)
-- [Git](https://git-scm.com/)
-
-## Getting Started
-
-### 1. Clone the Repository
-
-Clone this repository to your local machine:
 ```
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
