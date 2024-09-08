@@ -2,6 +2,11 @@
 
 This project is built using **React** with **Vite**, **Tailwind CSS**, and **shadecn**. Follow the instructions below to set up the project.
 
+<img src="https://github.com/user-attachments/assets/88b467fc-5164-43e6-97ed-2dd15a992b8e"  width="600" height="300">
+<img src="https://github.com/user-attachments/assets/da1b59f1-8008-4d21-bb35-9c294dc140d6"  width="600" height="300">
+<img src="https://github.com/user-attachments/assets/99b51de1-44c4-49cf-8893-248d4eef86b6"  width="600" height="300">
+<img src="https://github.com/user-attachments/assets/5bf0f28f-3f16-4476-b148-ec85a4a82f62"  width="600" height="300">
+
 ## Prerequisites
 
 Make sure you have the following installed on your local machine:
